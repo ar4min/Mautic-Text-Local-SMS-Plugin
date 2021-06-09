@@ -1,14 +1,9 @@
-# Mautic-Text-Local-SMS-Plugin
-This plugin allows to send SMS messages through Textlocal service provider API. It is based on the current version of Twilio plugin available in the default Mautic install package.
-
-## Synopsis
-
-This plugin allows to send SMS messages through TextLocal service provider API.
-It is based on the current version of Twilio plugin available in the default Mautic install package, and also on TextLocal plugin for previous Mautic versions written by @abreuleonel .
+# Mautic-Kave-Negar-SMS-Plugin
+This plugin allows to send SMS messages through KaveNegar service provider API. It is based on the current version of Twilio plugin available in the default Mautic install package.
 
 ## Motivation
 
-The lack a of an updated version of the original TextLocal plugin as well as the absence of an alternative to Twilio API was what motivated the creation of this.
+The lack a of an updated version of the original KaveNegar plugin as well as the absence of an alternative to Twilio API was what motivated the creation of this.
 
 ## Installation
 
